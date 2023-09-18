@@ -1,0 +1,8 @@
+{
+  "name": "js",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "kaboom": "^3000.1.6"
+  }
+}
